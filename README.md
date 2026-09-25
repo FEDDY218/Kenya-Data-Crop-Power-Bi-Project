@@ -43,5 +43,5 @@ A dedicated Date Table was created for time-intelligence analysis, and DAX was u
 
 ## Files
 
-* `Kenya_Agricultural_Dashboard.pbix` — Power BI report
-* `DAX_Answer_Sheet.pdf` — DAX calculations and results
+* Kenya_crop_data.pbix — Power BI report
+* DAX_Answer_Sheet.pdf — DAX calculations and results
